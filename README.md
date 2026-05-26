@@ -75,8 +75,7 @@ Holding `$RENTASWAP` unlocks tiered access and reduces trading fees. 50% of prot
 |----------|------|
 | **Website** | [rentaswap.com](https://rentaswap.com) |
 | **Telegram** | [@rentaswap](https://t.me/rentaswap) |
-| **Mini App** | [app.rentaswap.com/tg](https://app.rentaswap.com/tg) |
-| **Docs** | [rentaswap-docs](../rentaswap-docs/WHITEPAPER.md) |
+| **Docs** | [rentaswap-docs](https://rentaswap.com/) |
 
 ---
 <div align="center">
