@@ -4,7 +4,6 @@
 **The secondary market for subscriptions on Solana.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://github.com/rentaswap/core/actions/workflows/build.yml/badge.svg)](https://github.com/rentaswap/core/actions)
 [![Solana](https://img.shields.io/badge/Solana-Mainnet-green.svg)](https://solana.com)
 
 Sell the time you don't use; buy the time you don't want to commit to.
